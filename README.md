@@ -1,2 +1,4 @@
 # smartlabs
-Repositorio do SmartLabs - Universidade Federal de Rondonopolis
+Repositorio do Laboratório da Universidade Federal de Rondonópolis
+Grupo de Inovação e Pesquisa em Engenharia
+SmartLabs
