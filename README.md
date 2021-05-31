@@ -1,6 +1,7 @@
-# smartlabs
+# Smartlabs
 
-Repositorio do Laboratório da Universidade Federal de Rondonópolis
+Instituto de Ciências Agrárias e Tecnológicas
+Universidade Federal de Rondonópolis
 
 Grupo de Inovação e Pesquisa em Engenharia
 
